@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2019/09/26/HelloGitHub%20%E4%B8%80%E4%B8%AA%E5%88%86%E4%BA%AB%20GitHub%20%E4%B8%8A%E6%9C%89%E8%B6%A3%E3%80%81%E5%85%A5%E9%97%A8%E7%BA%A7%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/"/>
-      <url>/2019/09/26/HelloGitHub%20%E4%B8%80%E4%B8%AA%E5%88%86%E4%BA%AB%20GitHub%20%E4%B8%8A%E6%9C%89%E8%B6%A3%E3%80%81%E5%85%A5%E9%97%A8%E7%BA%A7%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</url>
-      
-        <content type="html"><![CDATA[<p>HelloGitHub 一个分享 GitHub 上有趣、入门级的开源项目</p><h2 id="1-Github"><a href="#1-Github" class="headerlink" title="1.Github"></a>1.Github</h2><p>作为程序员的如果你不知道GitHub,那你肯定是个假程序员。</p><p>GitHub是通过Git进行版本控制的软件源代码托管服务平台，GitHub的最大亮点就是开源。它也是全球程序员的交流平台。网站提供了一系列社交网络具有的功能，例如赞(star)、关注(follow)、评论等。</p><h2 id="2-HelloGitHub"><a href="#2-HelloGitHub" class="headerlink" title="2.HelloGitHub"></a>2.HelloGitHub</h2><p>今天在逛GitHub发现一个很棒的项目HelloGitHub，这个项目是一个面向编程新手、热爱编程、对开源社区感兴趣人群的项目，内容每月 28 号以月刊的形式更新发布。内容包括：流行项目、入门级项目、让生活变得更美好的工具、书籍、学习心得笔记、企业级项目等，这些开源项目大多都是非常容易上手、很 Cool，能够让你用很短时间感受到编程的魅力和便捷。从而让大家感受到编程的乐趣，动手开始编程。</p><p>作者希望通过本项目让多人加入到开源社区、回馈社区。让有趣、有价值的项目被更多人发现和加入。在参与这些项目的过程中，你将得到：热爱编程的小伙伴、更多编程知识books 、优秀的编程技巧 、找到编程的乐趣。</p><ol><li>在线地址</li></ol><p>在线地址：<a href="https://hellogithub.com/" target="_blank" rel="noopener">https://hellogithub.com/</a> </p><p>github地址：<a href="https://github.com/521xueweihan/HelloGitHub" target="_blank" rel="noopener">https://github.com/521xueweihan/HelloGitHub</a> </p><p>作者收集了很多有趣，入门的开源项目，对初入程序员行业的朋友有很大的帮助，通过小的项目不仅可以提升自己的专业技能，也可以开拓自己的思维。</p><p><img src="http://img1.yantuz.cn/upload/2019/07/5d2dda3ccd412.png" alt></p><ol start="2"><li>持续分享</li></ol><p>作者已经分享了39期，每一期都包括很多有优秀的项目，作者很用心。</p><p><img src="http://img1.yantuz.cn/upload/2019/07/5d2dda3c67ca3.png" alt></p><ol start="3"><li>网站特色</li></ol><p>每个人都可以推荐GitHub上的开源项目，也可以分享自己的项目。</p><p><img src="http://img1.yantuz.cn/upload/2019/07/5d2dda3c49397.png" alt></p><p><img src="http://img1.yantuz.cn/upload/2019/07/5d2dda3e4b08b.png" alt></p><h2 id="3-结语"><a href="#3-结语" class="headerlink" title="3.结语"></a>3.结语</h2><p>实践是最快的学习最快的方式，当然编程不例外。掌握基本的语法后，最快的方式就是阅读代码，开始模仿。HelloGitHub项目的作者与我最开始做公众号的目的非常契合。我也是想散发出更多的光和热，分享优秀的开源项目给大家。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>搭建微信自动回复机器人</title>
       <link href="/2018/09/07/%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
       <url>/2018/09/07/%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D%E6%9C%BA%E5%99%A8%E4%BA%BA/</url>
@@ -36,6 +23,33 @@
             <tag> Java </tag>
             
             <tag> 技巧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Vue + SpringCloud之后端实战经验分享</title>
+      <link href="/2018/09/07/3%E4%B8%AA%E6%9C%88SpringBoot%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+      <url>/2018/09/07/3%E4%B8%AA%E6%9C%88SpringBoot%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</url>
+      
+        <content type="html"><![CDATA[<p>Vue + SpringCloud之后端实战经验分享</p><h2 id="1-前后端分离"><a href="#1-前后端分离" class="headerlink" title="1.前后端分离"></a>1.前后端分离</h2><p>去年项目组的项目是SpringMVC+Dwz实现的，由于业务增加，这样的一个springMVC项目已经很臃肿，一处出现问题，就导致服务崩溃，太不灵活。今年年初，为了适应公司业务的发展，公司高层决定项目重构，采用前后端分离。今天先分享后端的开发。</p><p>前后端的好处显而易见：</p><p>1.前端JS可以做很大部分的数据处理工作，对服务器的压力减小到最小。</p><p>2.后台错误不会直接反映到前台，错误接秒较为友好。</p><p>3.前后台各尽其职可以最大程度的减少开发难度。 </p><p><img src="https://ae01.alicdn.com/kf/HTB1bAxsa1T2gK0jSZFvq6xnFXXaJ.jpg" alt></p><h2 id="2-技术栈"><a href="#2-技术栈" class="headerlink" title="2.技术栈"></a>2.技术栈</h2><ol><li>SpringBoot :是由 Pivotal 团队提供的全新框架，其设计目的是用来简化新 Spring 应用的初始搭建以及开发过程。该框架使用了特定的方式来进行配置，从而使开发人员不再需要定义样板化的配置。</li><li>SpringCloud：是一系列框架的有序集合。它利用Spring Boot的开发便利性巧妙地简化了分布式系统基础设施的开发，如服务发现注册、配置中心、消息总线、负载均衡、断路器、数据监控等，都可以用Spring Boot的开发风格做到一键启动和部署。</li><li>Docker：是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的容器中,然后发布到任何流行的Linux机器上,也可以实现虚拟化,容器是完全使用沙箱机制,相互之间不会有任何接口。</li><li>Jenkins：一种比较流行的持续集成工具。持续集成是使多种软件的功能集成到一个软件里，或是把软件的各部分组合在一起。 </li><li>RabbitMQ：是一个开源的消息代理和队列服务器，用来通过普通协议在完全不同的应用之间共享数据，或者简单的将作业排队以便让分布式服务器进行处理。</li><li>Redis是完全开源免费的，是一个开源的高性能的key-value数据库。</li></ol><h2 id="3-后端项目总结"><a href="#3-后端项目总结" class="headerlink" title="3.后端项目总结"></a>3.后端项目总结</h2><ol><li>项目微服务四个基础服务,其他就是业务服务。</li></ol><p>​               Eurake： 主要职责服务的注册和发现。</p><p>​               Admin： 负责用户认证，生成用户token。</p><p>​               System： 系统基础数据服务。</p><p>​               Zuul： 网管服务。</p><p>​    2. 独立开发的springBoot项目</p><p>​         完成业务功能的同时，项目也内置swagger（一款API文档的框架 ），方便前后台接口调试。</p><ol start="3"><li><p>服务间调用</p><p>我们采用的Feign进行服务间调用，它只需要创建一个接口，并且使用注解的方式去配置，即可完成对服务提供方的接口绑定，大大简化了代码的开发量 。其他方式也有RestTemplate。</p></li><li><p>持续集成工具Jenkins</p><p>项目组成员提交代码到GitLab，Jenkins检测有代码更新，会自动打包部署。项目实现部署自动化，减少人工成本。</p></li></ol><ol start="5"><li><p>分布式事务</p><p>LCN分布式事务框架的核心功能是对本地事务的协调控制，框架本身并不创建事务，只是对本地事务做协调控制。</p></li><li><p>SpringBoot项目架构优化</p><p>由于有些服务需要对外提供多个调用接口，我们小组组长对微服务做了一些改进。将一个springBoot项目拆分为三个模块：entity,server,client。entity是实体，server是业务出来逻辑，client是FeignClient。其他服务需要调用本服务的接口，只需要在pom中引用entity,client。就不需要在自己的微服务中定义实体和FeignClient，使服务间调用解耦。</p></li><li><p>使用RabbitMQ记录日志</p><p>RabbitMQ是实现 AMQP（高级消息队列协议）的消息中间件的一种，项目中主要使用使用RabbitMQ记录日志。</p></li><li><p>使用Java8新语法</p><p>在springBoot项目开发中使用了一些Java8的新语法，lambda表达式，Steam,Optional,方法引用,日期的处理等。</p></li><li><p>遇到的坑</p></li></ol><p>​       1.服务间调用无法调用</p><p>​        当我们需要调试某个微服务的时候，将我们这个微服务注册到开发测试环境的eurake服务上，但是经常是自动访问不到我们注册的服务。解决方法在FeignClient注解添加url属性，指定服务地址。例如：@FeignClient(name = “test-client”, url = “<a href="https://api.github.com&quot;" target="_blank" rel="noopener">https://api.github.com&quot;</a>)</p><p>​       2.FeiginClient实现文件上传功能</p><p>​        服务提供方的请求需添加consumes 参数， @PostMapping(value = “/uploadFile”, consumes = MediaType.MULTIPART_FORM_DATA_VALUE)，服务的消费方在FeignClient需要添加SpringFormEncoder编码器。添加如下代码：</p><pre><code>@Configuration    class MultipartSupportConfig {        @Bean        public Encoder feignFormEncoder() {            return new SpringFormEncoder();        }    }</code></pre><p>​         3.指定数据库方言</p><p>​          如果不指定数据库方言 ，使用Mybitas Plus自动生成分页查询语句可能回出现问题。</p><p>​        4.日期类型时间相差8小时</p><p>​           原因是前台传递的是UTC 时间，UTC + 时区差 ＝ 本地时间。所有后台有两种解决方式，使用Java8的LocalDateTime类型，或者使用Date类型，在属性上添加注解@JsonFormat(pattern=”yyyy-MM-dd”,timezone=”GMT+8”)。</p><h2 id="5-结语"><a href="#5-结语" class="headerlink" title="5.结语"></a>5.结语</h2><p>最开始项目要重构采用新的架构，前端使用时下流行的Vue,后端使用便捷的SpringBoot，我是很兴奋的。我是做Java开发，后端对于我来说是没有什么问题。但是前端就感觉有点吃力了，因为当时决定前后端分离，我们项目还没有一个前端，感觉很虚。</p><p>公司的大力支持，在项目进入开发阶段的前两周，有了三人的前端开发团队，然后我们就进入了疯狂的撸代码阶段。项目组都是年轻人，我们为了一个共同目标，共同奋斗，超越自我。从一开始的不自信，慢慢走向自信。虽然一直加班，但也一直在成长，年轻就该吃点苦头！</p><p>一直很忙碌，没时间总结，今天整理一下，文中主要是我个人的一些经历和思考。前后端分离项目中遇到了很多坑，你在项目开发中遇到过那些坑，我们可以一起讨论。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Vue </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SpringCloud </tag>
+            
+            <tag> Vue </tag>
             
         </tags>
       
@@ -96,11 +110,11 @@
     
     
     <entry>
-      <title>Vue + SpringCloud之后端实战经验分享</title>
-      <link href="/2018/09/07/3%E4%B8%AA%E6%9C%88SpringBoot%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
-      <url>/2018/09/07/3%E4%B8%AA%E6%9C%88SpringBoot%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</url>
+      <title>HelloGitHub 一个分享 GitHub 上有趣、入门级的开源项目</title>
+      <link href="/2018/09/07/HelloGitHub%20%E4%B8%80%E4%B8%AA%E5%88%86%E4%BA%AB%20GitHub%20%E4%B8%8A%E6%9C%89%E8%B6%A3%E3%80%81%E5%85%A5%E9%97%A8%E7%BA%A7%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/"/>
+      <url>/2018/09/07/HelloGitHub%20%E4%B8%80%E4%B8%AA%E5%88%86%E4%BA%AB%20GitHub%20%E4%B8%8A%E6%9C%89%E8%B6%A3%E3%80%81%E5%85%A5%E9%97%A8%E7%BA%A7%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</url>
       
-        <content type="html"><![CDATA[<p>Vue + SpringCloud之后端实战经验分享</p><h2 id="1-前后端分离"><a href="#1-前后端分离" class="headerlink" title="1.前后端分离"></a>1.前后端分离</h2><p>去年项目组的项目是SpringMVC+Dwz实现的，由于业务增加，这样的一个springMVC项目已经很臃肿，一处出现问题，就导致服务崩溃，太不灵活。今年年初，为了适应公司业务的发展，公司高层决定项目重构，采用前后端分离。今天先分享后端的开发。</p><p>前后端的好处显而易见：</p><p>1.前端JS可以做很大部分的数据处理工作，对服务器的压力减小到最小。</p><p>2.后台错误不会直接反映到前台，错误接秒较为友好。</p><p>3.前后台各尽其职可以最大程度的减少开发难度。 </p><p><img src="https://ae01.alicdn.com/kf/HTB1bAxsa1T2gK0jSZFvq6xnFXXaJ.jpg" alt></p><h2 id="2-技术栈"><a href="#2-技术栈" class="headerlink" title="2.技术栈"></a>2.技术栈</h2><ol><li>SpringBoot :是由 Pivotal 团队提供的全新框架，其设计目的是用来简化新 Spring 应用的初始搭建以及开发过程。该框架使用了特定的方式来进行配置，从而使开发人员不再需要定义样板化的配置。</li><li>SpringCloud：是一系列框架的有序集合。它利用Spring Boot的开发便利性巧妙地简化了分布式系统基础设施的开发，如服务发现注册、配置中心、消息总线、负载均衡、断路器、数据监控等，都可以用Spring Boot的开发风格做到一键启动和部署。</li><li>Docker：是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的容器中,然后发布到任何流行的Linux机器上,也可以实现虚拟化,容器是完全使用沙箱机制,相互之间不会有任何接口。</li><li>Jenkins：一种比较流行的持续集成工具。持续集成是使多种软件的功能集成到一个软件里，或是把软件的各部分组合在一起。 </li><li>RabbitMQ：是一个开源的消息代理和队列服务器，用来通过普通协议在完全不同的应用之间共享数据，或者简单的将作业排队以便让分布式服务器进行处理。</li><li>Redis是完全开源免费的，是一个开源的高性能的key-value数据库。</li></ol><h2 id="3-后端项目总结"><a href="#3-后端项目总结" class="headerlink" title="3.后端项目总结"></a>3.后端项目总结</h2><ol><li>项目微服务四个基础服务,其他就是业务服务。</li></ol><p>​               Eurake： 主要职责服务的注册和发现。</p><p>​               Admin： 负责用户认证，生成用户token。</p><p>​               System： 系统基础数据服务。</p><p>​               Zuul： 网管服务。</p><p>​    2. 独立开发的springBoot项目</p><p>​         完成业务功能的同时，项目也内置swagger（一款API文档的框架 ），方便前后台接口调试。</p><ol start="3"><li><p>服务间调用</p><p>我们采用的Feign进行服务间调用，它只需要创建一个接口，并且使用注解的方式去配置，即可完成对服务提供方的接口绑定，大大简化了代码的开发量 。其他方式也有RestTemplate。</p></li><li><p>持续集成工具Jenkins</p><p>项目组成员提交代码到GitLab，Jenkins检测有代码更新，会自动打包部署。项目实现部署自动化，减少人工成本。</p></li></ol><ol start="5"><li><p>分布式事务</p><p>LCN分布式事务框架的核心功能是对本地事务的协调控制，框架本身并不创建事务，只是对本地事务做协调控制。</p></li><li><p>SpringBoot项目架构优化</p><p>由于有些服务需要对外提供多个调用接口，我们小组组长对微服务做了一些改进。将一个springBoot项目拆分为三个模块：entity,server,client。entity是实体，server是业务出来逻辑，client是FeignClient。其他服务需要调用本服务的接口，只需要在pom中引用entity,client。就不需要在自己的微服务中定义实体和FeignClient，使服务间调用解耦。</p></li><li><p>使用RabbitMQ记录日志</p><p>RabbitMQ是实现 AMQP（高级消息队列协议）的消息中间件的一种，项目中主要使用使用RabbitMQ记录日志。</p></li><li><p>使用Java8新语法</p><p>在springBoot项目开发中使用了一些Java8的新语法，lambda表达式，Steam,Optional,方法引用,日期的处理等。</p></li><li><p>遇到的坑</p></li></ol><p>​       1.服务间调用无法调用</p><p>​        当我们需要调试某个微服务的时候，将我们这个微服务注册到开发测试环境的eurake服务上，但是经常是自动访问不到我们注册的服务。解决方法在FeignClient注解添加url属性，指定服务地址。例如：@FeignClient(name = “test-client”, url = “<a href="https://api.github.com&quot;" target="_blank" rel="noopener">https://api.github.com&quot;</a>)</p><p>​       2.FeiginClient实现文件上传功能</p><p>​        服务提供方的请求需添加consumes 参数， @PostMapping(value = “/uploadFile”, consumes = MediaType.MULTIPART_FORM_DATA_VALUE)，服务的消费方在FeignClient需要添加SpringFormEncoder编码器。添加如下代码：</p><pre><code>@Configuration    class MultipartSupportConfig {        @Bean        public Encoder feignFormEncoder() {            return new SpringFormEncoder();        }    }</code></pre><p>​         3.指定数据库方言</p><p>​          如果不指定数据库方言 ，使用Mybitas Plus自动生成分页查询语句可能回出现问题。</p><p>​        4.日期类型时间相差8小时</p><p>​           原因是前台传递的是UTC 时间，UTC + 时区差 ＝ 本地时间。所有后台有两种解决方式，使用Java8的LocalDateTime类型，或者使用Date类型，在属性上添加注解@JsonFormat(pattern=”yyyy-MM-dd”,timezone=”GMT+8”)。</p><h2 id="5-结语"><a href="#5-结语" class="headerlink" title="5.结语"></a>5.结语</h2><p>最开始项目要重构采用新的架构，前端使用时下流行的Vue,后端使用便捷的SpringBoot，我是很兴奋的。我是做Java开发，后端对于我来说是没有什么问题。但是前端就感觉有点吃力了，因为当时决定前后端分离，我们项目还没有一个前端，感觉很虚。</p><p>公司的大力支持，在项目进入开发阶段的前两周，有了三人的前端开发团队，然后我们就进入了疯狂的撸代码阶段。项目组都是年轻人，我们为了一个共同目标，共同奋斗，超越自我。从一开始的不自信，慢慢走向自信。虽然一直加班，但也一直在成长，年轻就该吃点苦头！</p><p>一直很忙碌，没时间总结，今天整理一下，文中主要是我个人的一些经历和思考。前后端分离项目中遇到了很多坑，你在项目开发中遇到过那些坑，我们可以一起讨论。</p>]]></content>
+        <content type="html"><![CDATA[<p>HelloGitHub 一个分享 GitHub 上有趣、入门级的开源项目</p><h2 id="1-Github"><a href="#1-Github" class="headerlink" title="1.Github"></a>1.Github</h2><p>作为程序员的如果你不知道GitHub,那你肯定是个假程序员。</p><p>GitHub是通过Git进行版本控制的软件源代码托管服务平台，GitHub的最大亮点就是开源。它也是全球程序员的交流平台。网站提供了一系列社交网络具有的功能，例如赞(star)、关注(follow)、评论等。</p><h2 id="2-HelloGitHub"><a href="#2-HelloGitHub" class="headerlink" title="2.HelloGitHub"></a>2.HelloGitHub</h2><p>今天在逛GitHub发现一个很棒的项目HelloGitHub，这个项目是一个面向编程新手、热爱编程、对开源社区感兴趣人群的项目，内容每月 28 号以月刊的形式更新发布。内容包括：流行项目、入门级项目、让生活变得更美好的工具、书籍、学习心得笔记、企业级项目等，这些开源项目大多都是非常容易上手、很 Cool，能够让你用很短时间感受到编程的魅力和便捷。从而让大家感受到编程的乐趣，动手开始编程。</p><p>作者希望通过本项目让多人加入到开源社区、回馈社区。让有趣、有价值的项目被更多人发现和加入。在参与这些项目的过程中，你将得到：热爱编程的小伙伴、更多编程知识books 、优秀的编程技巧 、找到编程的乐趣。</p><ol><li>在线地址</li></ol><p>在线地址：<a href="https://hellogithub.com/" target="_blank" rel="noopener">https://hellogithub.com/</a> </p><p>github地址：<a href="https://github.com/521xueweihan/HelloGitHub" target="_blank" rel="noopener">https://github.com/521xueweihan/HelloGitHub</a> </p><p>作者收集了很多有趣，入门的开源项目，对初入程序员行业的朋友有很大的帮助，通过小的项目不仅可以提升自己的专业技能，也可以开拓自己的思维。</p><p><img src="http://img1.yantuz.cn/upload/2019/07/5d2dda3ccd412.png" alt></p><ol start="2"><li>持续分享</li></ol><p>作者已经分享了39期，每一期都包括很多有优秀的项目，作者很用心。</p><p><img src="http://img1.yantuz.cn/upload/2019/07/5d2dda3c67ca3.png" alt></p><ol start="3"><li>网站特色</li></ol><p>每个人都可以推荐GitHub上的开源项目，也可以分享自己的项目。</p><p><img src="http://img1.yantuz.cn/upload/2019/07/5d2dda3c49397.png" alt></p><p><img src="http://img1.yantuz.cn/upload/2019/07/5d2dda3e4b08b.png" alt></p><h2 id="3-结语"><a href="#3-结语" class="headerlink" title="3.结语"></a>3.结语</h2><p>实践是最快的学习最快的方式，当然编程不例外。掌握基本的语法后，最快的方式就是阅读代码，开始模仿。HelloGitHub项目的作者与我最开始做公众号的目的非常契合。我也是想散发出更多的光和热，分享优秀的开源项目给大家。</p>]]></content>
       
       
       <categories>
@@ -112,9 +126,7 @@
       
         <tags>
             
-            <tag> SpringCloud </tag>
-            
-            <tag> Vue </tag>
+            <tag> Github </tag>
             
         </tags>
       
@@ -177,7 +189,7 @@
     
     
     <entry>
-      <title>Webscraper</title>
+      <title>Google Webscraper</title>
       <link href="/2018/09/07/Webscraper/"/>
       <url>/2018/09/07/Webscraper/</url>
       
